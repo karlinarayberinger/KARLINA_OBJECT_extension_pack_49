@@ -56,7 +56,7 @@ file_23: KARBYTES_JOURNAL_2023_PART_3-main.zip // SHA-256: 22f17ff0ed128ecb1a972
 
 file_24: KARBYTES_JOURNAL_2022_PART_3-main.zip // SHA-256: d4e5fc66e8c227ba64876fd420445d4aaa26618877fd5a2e54cae21cb7032033
 
-file_25: KARLINA_OBJECT_extension_pack_49-main.zip // SHA-256: 5fc35fed7b9ee8e466f2c46f5cafad51d47af64b7627b75bd18ae3a8db326002
+file_25: KARLINA_OBJECT_extension_pack_49-main.zip // SHA-256: bee7cb8eba1800d0d1cb54f46d8aac015ca6bab508818a23bba4fac5c54ed1e5
 
 file_26: KARBYTES_JOURNAL_2023_PART_17-main.zip // SHA-256: afdf01a12dc2a41b5e80db38b10d636ff9c64669d5869b4c793c7fc7ed218e15
 
