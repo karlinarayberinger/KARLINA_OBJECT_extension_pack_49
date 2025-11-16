@@ -56,7 +56,7 @@ file_23: KARBYTES_JOURNAL_2023_PART_3-main.zip // SHA-256: 22f17ff0ed128ecb1a972
 
 file_24: KARBYTES_JOURNAL_2022_PART_3-main.zip // SHA-256: d4e5fc66e8c227ba64876fd420445d4aaa26618877fd5a2e54cae21cb7032033
 
-file_25: KARLINA_OBJECT_extension_pack_49-main.zip // SHA-256: bee7cb8eba1800d0d1cb54f46d8aac015ca6bab508818a23bba4fac5c54ed1e5
+file_25: KARLINA_OBJECT_extension_pack_49-main.zip // SHA-256: b0028e919173b92bdbfe8710b14bf336386174a725fb4d734efe79fdbb7e4c53
 
 file_26: KARBYTES_JOURNAL_2023_PART_17-main.zip // SHA-256: afdf01a12dc2a41b5e80db38b10d636ff9c64669d5869b4c793c7fc7ed218e15
 
@@ -124,7 +124,7 @@ file_57: KARBYTES_JOURNAL_2022_PART_10-main.zip // SHA-256: 9060ed9922d5be9c8fa7
 
 file_58: KARLINA_OBJECT_extension_pack_17-main.zip // SHA-256: 3cfff4eff3d488419479005cddc5dfa463b8684216fe61c33c04b7d26155de02
 
-file_59: KARBYTES_FOR_LIFE_BLOG-main_31december2025.zip // SHA-256: 8aa4234c7c1703638be4c8a6ad61626e0f0515ec4d645102ffe685923da48165
+file_59: KARBYTES_FOR_LIFE_BLOG-main_31december2025.zip // SHA-256: 135dd20f7f651c638d9f1e09bd28c81f12c4c5abd8b3a58c9e3ff3d99e4cf874
 
 file_60: TEMPLATE_micro_directory-main.zip // SHA-256: 1bdcd7854384caafe5f33b1292dca60c00244ed5c51baf16190c20e41edc2f58
 
@@ -184,57 +184,57 @@ file_87: KARLINA_OBJECT_extension_pack_12-main.zip // SHA-256: bd7c2ed63e8876d53
 
 file_88: karbytes_basement_0-main.zip // SHA-256: ad3def57aa6733197336ed59c81c4cb98238efca37b0e3ba18ad91d0435d60c7
 
-file_89: karbytes_wayback_machine_saves_precision_batches_extension_0-main_15november2025.zip // SHA-256: 643447c91f7d1f85b8b75536dac0f9dfc24ca131528e0b18f966043c10c06ae4
+file_89: KARBYTES_JOURNAL_2023_PART_12-main.zip // SHA-256: 730c902514c5421fe26245ceb5d07496d3609c5fa64d878d95bd6651a8e76c17
 
-file_90: KARBYTES_JOURNAL_2023_PART_12-main.zip // SHA-256: 730c902514c5421fe26245ceb5d07496d3609c5fa64d878d95bd6651a8e76c17
+file_90: KARBYTES_BRAND_IMAGES_2021-main.zip // SHA-256: 3a9fde1d3b5cc0d9ea8a74ab880df2baa0d3d397f419168e3fa6b19a8c44b503
 
-file_91: KARBYTES_BRAND_IMAGES_2021-main.zip // SHA-256: 3a9fde1d3b5cc0d9ea8a74ab880df2baa0d3d397f419168e3fa6b19a8c44b503
+file_91: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // SHA-256: 94471bce498ab1bbf9d6acc2438b121efd2dcba89a214aa97bea72c540878cfc
 
-file_92: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // SHA-256: 94471bce498ab1bbf9d6acc2438b121efd2dcba89a214aa97bea72c540878cfc
+file_92: karbytes_basement_12-main.zip // SHA-256: 123bce40f5dcacd4cd09f800a69fda71c3809e9682e0ed80dba202586c0b4e8e
 
-file_93: karbytes_basement_12-main.zip // SHA-256: 123bce40f5dcacd4cd09f800a69fda71c3809e9682e0ed80dba202586c0b4e8e
+file_93: KARLINA_OBJECT_extension_pack_44-main.zip // SHA-256: bec98a40e58127607e0e105ae054755951c49f0ea72c537e985e294a50780292
 
-file_94: KARLINA_OBJECT_extension_pack_44-main.zip // SHA-256: bec98a40e58127607e0e105ae054755951c49f0ea72c537e985e294a50780292
+file_94: KARLINA_OBJECT_extension_pack_23-main.zip // SHA-256: daf2ce592091a87506e82f4fdbf7b563df745f8184e6a5445b8f4ea1eabd851f
 
-file_95: KARLINA_OBJECT_extension_pack_23-main.zip // SHA-256: daf2ce592091a87506e82f4fdbf7b563df745f8184e6a5445b8f4ea1eabd851f
+file_95: KARBYTES_JOURNAL_2023_PART_2-main.zip // SHA-256: fd89ce938e24047ebfc0d075863d58ab25a30163f0bca009dad07f2ea4e73ceb
 
-file_96: KARBYTES_JOURNAL_2023_PART_2-main.zip // SHA-256: fd89ce938e24047ebfc0d075863d58ab25a30163f0bca009dad07f2ea4e73ceb
+file_96: karbytes_basement_11-main.zip // SHA-256: b2b8b13532fd131bbce8dd722dbbefd9c7dc7c7b10bea296efa0576760154349
 
-file_97: karbytes_basement_11-main.zip // SHA-256: b2b8b13532fd131bbce8dd722dbbefd9c7dc7c7b10bea296efa0576760154349
+file_97: KARBYTES_JOURNAL_2023_PART_1-main.zip // SHA-256: 0f2e0e448a56363c6317da925b6fdcb53e7268109c71887de3425089ab1e867c
 
-file_98: KARBYTES_JOURNAL_2023_PART_1-main.zip // SHA-256: 0f2e0e448a56363c6317da925b6fdcb53e7268109c71887de3425089ab1e867c
+file_98: reference_human_genome_fasta_hg38-main.zip // SHA-256: f8f0dee1f4317950bd48faebe3028eb0cad8b9d001b82b20b956e51703449d3e
 
-file_99: reference_human_genome_fasta_hg38-main.zip // SHA-256: f8f0dee1f4317950bd48faebe3028eb0cad8b9d001b82b20b956e51703449d3e
+file_99: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: 0548ce20e3acf6f3cb95703e71d0593e6c76612d5f522ca554824eb42ce0ade2
 
-file_100: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: 0548ce20e3acf6f3cb95703e71d0593e6c76612d5f522ca554824eb42ce0ade2
+file_100: KARLINA_OBJECT_extension_pack_40-main.zip // SHA-256: 73f7bf5b30cee1239f285ec1d60d1145639bb96dcf9cf4fbd02760df3f94edb8
 
-file_101: KARLINA_OBJECT_extension_pack_40-main.zip // SHA-256: 73f7bf5b30cee1239f285ec1d60d1145639bb96dcf9cf4fbd02760df3f94edb8
+file_101: KARLINA_OBJECT_extension_pack_30-main.zip // SHA-256: 1653e7e03769b9847060d0fbd0fb03212681bcdbbe021f388d21c5686b6122bd
 
-file_102: KARLINA_OBJECT_extension_pack_30-main.zip // SHA-256: 1653e7e03769b9847060d0fbd0fb03212681bcdbbe021f388d21c5686b6122bd
+file_102: KARLINA_OBJECT_extension_pack_14-main.zip // SHA-256: 43bbbc82957011054d963b75f504a5e086c6f59437cb9863025797e710526de9
 
-file_103: KARLINA_OBJECT_extension_pack_14-main.zip // SHA-256: 43bbbc82957011054d963b75f504a5e086c6f59437cb9863025797e710526de9
+file_103: KARBYTES_JOURNAL_2022_PART_13-main.zip // SHA-256: 2a200cbd50640531d7720e5890953a3b495940f3dd9dc7beaca9e904223cea6c
 
-file_104: KARBYTES_JOURNAL_2022_PART_13-main.zip // SHA-256: 2a200cbd50640531d7720e5890953a3b495940f3dd9dc7beaca9e904223cea6c
+file_104: KARLINA_OBJECT_extension_pack_26-main.zip // SHA-256: ff679406ec402f2d701763f5856f8448685b056794a887496ec07174b14a5967
 
-file_105: KARLINA_OBJECT_extension_pack_26-main.zip // SHA-256: ff679406ec402f2d701763f5856f8448685b056794a887496ec07174b14a5967
+file_105: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // SHA-256: e1217dab7d5bf0434cd6ca5fa9cb92528c1ba92a9990fbc67169d7490a6ae84e
 
-file_106: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // SHA-256: e1217dab7d5bf0434cd6ca5fa9cb92528c1ba92a9990fbc67169d7490a6ae84e
+file_106: KARLINA_OBJECT_extension_pack_47-main.zip // SHA-256: dff6a29c6921e276c27be64a4aac1ab0e1df51c2ca2587b5b31c201b8c6c4870
 
-file_107: KARLINA_OBJECT_extension_pack_47-main.zip // SHA-256: dff6a29c6921e276c27be64a4aac1ab0e1df51c2ca2587b5b31c201b8c6c4870
+file_107: KARLINA_OBJECT_extension_pack_37-main.zip // SHA-256: 8d6bd3103446536c3c5cf61f712a230d712220cd71e6136c622d1f3330c7c094
 
-file_108: KARLINA_OBJECT_extension_pack_37-main.zip // SHA-256: 8d6bd3103446536c3c5cf61f712a230d712220cd71e6136c622d1f3330c7c094
+file_108: KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // SHA-256: e099f3975d43f4d0174e5b561d061bd9298c3df75652d5cc3938fa7443881d21
 
-file_109: KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // SHA-256: e099f3975d43f4d0174e5b561d061bd9298c3df75652d5cc3938fa7443881d21
+file_109: KARBYTES_JOURNAL_2022_PART_8-main.zip // SHA-256: d3e41e089bbe73b0e24a04e5b8510a50b4d7141025cef627088b55d4f848c22a
 
-file_110: KARBYTES_JOURNAL_2022_PART_8-main.zip // SHA-256: d3e41e089bbe73b0e24a04e5b8510a50b4d7141025cef627088b55d4f848c22a
+file_110: karbytes_basement_40-main.zip // SHA-256: 0f731a55b721f074627011a1a58234f2c7c68b4ec3a9129bd8b5608c29f86d60
 
-file_111: karbytes_basement_40-main.zip // SHA-256: 0f731a55b721f074627011a1a58234f2c7c68b4ec3a9129bd8b5608c29f86d60
+file_111: karbytes_basement_39-main.zip // SHA-256: 1605e76bea25e4a1703767542a0ed8d101a5e664dbd6d05067f55d7d558a0d90
 
-file_112: karbytes_basement_39-main.zip // SHA-256: 1605e76bea25e4a1703767542a0ed8d101a5e664dbd6d05067f55d7d558a0d90
+file_112: KARBYTES_JOURNAL_2022_PART_0-main.zip // SHA-256: e499a9a49654640f1da4e74cc8dab99ea94bb5e6c543abd15bd5b7ffddf0625c
 
-file_113: KARBYTES_JOURNAL_2022_PART_0-main.zip // SHA-256: e499a9a49654640f1da4e74cc8dab99ea94bb5e6c543abd15bd5b7ffddf0625c
+file_113: KARBYTES_JOURNAL_2023_PART_26-main.zip // SHA-256: 0c53c38cac551e2b9d9d94ce1797fbb143bd412872258032e532800f3e57e87c
 
-file_114: KARBYTES_JOURNAL_2023_PART_26-main.zip // SHA-256: 0c53c38cac551e2b9d9d94ce1797fbb143bd412872258032e532800f3e57e87c
+file_114: karbytes_wayback_machine_saves_precision_batches_extension_0-main_31december2025.zip // SHA-256: 643447c91f7d1f85b8b75536dac0f9dfc24ca131528e0b18f966043c10c06ae4
 
 file_115: KARBYTES_JOURNAL_2022_PART_16B-main.zip // SHA-256: a1a0f8e091d6b26c49e03f21911ca04f45e757ef0bc6ab42c6f5550450b30de6
 
